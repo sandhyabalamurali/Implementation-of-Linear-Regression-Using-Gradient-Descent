@@ -96,7 +96,12 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
+
+
+
 READ CSV FILE:
+
+
 ![ml ex 3 1](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/8bd74f45-23b8-418f-936e-14d64c0e749c)
 
 DATASET SHAPE
