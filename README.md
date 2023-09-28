@@ -96,34 +96,34 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
-
+READ CSV FILE:
 ![ml ex 3 1](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/8bd74f45-23b8-418f-936e-14d64c0e749c)
 
-
+DATASET SHAPE
 
 ![ml ex 3 2](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/9735e987-72eb-43e7-bbf5-85a24bd79240)
 
-
+PROFIT VS PREDICTION:
 
 ![ex 3 3](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/739183ab-8d90-4abe-ad89-ece66c657800)
 
-
+X , Y, THETA VALUE :
 
 ![4](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/396c29a5-a52a-4e70-a9e0-f2fed7d82266)
 
-
+GRADIENT DESCENT :
 
 ![5](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/bb8cd81a-9e27-4d48-9b0a-7575aa3f75ea)
 
-
+COST FUNCTION USING GRADIENT DESCENT GRAPH:
 
 ![6](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/33f5899c-eb58-48ab-ac30-d9a9ad7f327d)
 
-
+PROFIT PREDICTION GRAPH :
 
 ![7](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/93e69411-6a11-4389-96f0-24a3bf5cc729)
 
-
+PROFIT PREDICTION
 
 ![8](https://github.com/sandhyabalamurali/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115525118/ffbbb691-2b2f-409e-a570-35858ff42a14)
 
